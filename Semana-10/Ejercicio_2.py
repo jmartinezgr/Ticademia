@@ -1,8 +1,6 @@
 lista_modulos = [9, 11, 12, 8, 12, 9, 11, 8, 11, 10, 9, 10] 
 
 n = int(input())
-lista_valores = []
-lista_docuemtos = []
 dic = {}
 suma = 0 
 
