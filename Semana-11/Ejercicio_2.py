@@ -24,4 +24,4 @@ for i in range(int(input())):
         dic_commits['prime timers'] += 1
 
 for clave,valor in dic_commits.items():
-    print(clave,)
+    print(clave,valor)
