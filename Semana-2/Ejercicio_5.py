@@ -1,0 +1,1 @@
+print(f'{(float(input())-32)*5/9} grados centigrados')
